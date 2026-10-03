@@ -113,6 +113,10 @@ The AI service evaluates candidate responses and provides:
                 │      AI Processing      │
                 └─────────────────────────┘
 
+````
+
+---
+
 ## 🔄 How It Works
 
 1. User registers or logs into InterviewIQ.
