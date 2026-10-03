@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🧠 InterviewIQ — AI-Powered Technical Interview Platform
 
 InterviewIQ is a full-stack AI-powered technical interview preparation platform designed to simulate real-world technical interviews.
@@ -115,9 +112,6 @@ The AI service evaluates candidate responses and provides:
                 │     Ollama + Mistral    │
                 │      AI Processing      │
                 └─────────────────────────┘
-````
-
----
 
 ## 🔄 How It Works
 
